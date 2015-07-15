@@ -1,2 +1,5 @@
 [
+    { "keys": ["ctrl+shift+a"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    { "keys": ["ctrl+alt+y"], "command": "find_all_under" },
+    { "keys": ["alt+y"], "command": "find_under_expand" }
 ]

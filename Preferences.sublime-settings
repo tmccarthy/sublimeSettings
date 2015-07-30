@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/GrandsonOfObsidian.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_size": 12,
-	"hot_exit": false,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -10,4 +10,5 @@
 	"remember_open_files": false,
 	"translate_tabs_to_spaces": true,
 	"spell_check":true,
-	"dictionary": "Packages/Language - English/en_AU.dic"}
+	"dictionary": "Packages/Language - English/en_AU.dic"
+}

@@ -4,6 +4,8 @@
 	],
 	"installed_packages":
 	[
+		"Colorsublime",
+		"Gradle_Language",
 		"Package Control"
 	]
 }

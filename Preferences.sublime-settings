@@ -3,7 +3,7 @@
 	"dictionary": "Packages/Language - English/en_AU.dic",
 	"font_face": "Source Code Pro",
 	"font_size": 12,
-	"hot_exit": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
